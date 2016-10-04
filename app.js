@@ -1,3 +1,4 @@
+//Code for Node with results of balance.js functions
 var http = require('http');
 var finalBal = require('./balance');
 http.createServer(function (req, res) {

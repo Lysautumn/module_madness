@@ -1,3 +1,4 @@
+//Takes random number from generator and passes it into the function to get USD
 var number = require('./random');
 var usdConvert = require('./usd');
 
